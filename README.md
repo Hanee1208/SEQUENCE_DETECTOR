@@ -18,6 +18,7 @@ The detector checks incoming bits one by one:
 3. Then look for **0** again  
 4. Finally look for **1**  
 If all four bits appear in order → sequence **1001** is detected → Output = **1**
+
 This is done using:
 - **States** 
 - **Flip-flops**  
