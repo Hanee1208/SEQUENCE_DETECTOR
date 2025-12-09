@@ -3,7 +3,7 @@
 This project detects the binary sequence **1001** from a serial input.  
 When the sequence 1001 appears in the input, the output becomes **1**.
 
-This detector is designed as a Moore Machine and it supports overlapping sequences.
+This detector is designed as a **Moore Machine** and it supports **overlapping sequences**.
 
 ## Purpose of the Project
 - To understand how a sequence detector works  
