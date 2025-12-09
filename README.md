@@ -29,7 +29,7 @@ This is done using:
 - **Flip-flop excitation table**  
 - **Final circuit diagram**  
 - **Truth table for output**
-- 
+
 ## Steps in Design
 1. Draw the **state diagram** for detecting 1001  
 2. Prepare the **state table**  
